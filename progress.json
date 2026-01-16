@@ -9,15 +9,6 @@
     "status": "Incomplete"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1768549681.530923,
-    "completed_at": 1768549684.580946,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "stage-fright",
     "started_at": 1768549925.789366,
     "completed_at": 1768549928.42668,
