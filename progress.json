@@ -1,19 +1,10 @@
 [
   {
-    "exercise_name": "remote-control",
-    "started_at": 1768549268.035551,
-    "completed_at": 1768549322.866697,
+    "exercise_name": "clone-repo",
+    "started_at": 1768557844.159587,
+    "completed_at": 1768557847.674168,
     "comments": [
-      "The remote repository url you provided either does not exist or is private. Try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1768549925.789366,
-    "completed_at": 1768549928.42668,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
+      "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
   },
@@ -45,13 +36,13 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "clone-repo",
-    "started_at": 1768557844.159587,
-    "completed_at": 1768557847.674168,
+    "exercise_name": "remote-control",
+    "started_at": 1768549268.035551,
+    "completed_at": 1768549322.866697,
     "comments": [
-      "Great work creating a clone of a fork from Github!"
+      "The remote repository url you provided either does not exist or is private. Try again!"
     ],
-    "status": "Completed"
+    "status": "Incomplete"
   },
   {
     "exercise_name": "remote-control",
@@ -59,6 +50,24 @@
     "completed_at": 1769050008.962757,
     "comments": [
       "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768549925.789366,
+    "completed_at": 1768549928.42668,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769050663.407993,
+    "completed_at": 1769050664.938625,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
   }
