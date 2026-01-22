@@ -52,5 +52,14 @@
       "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769049900.072462,
+    "completed_at": 1769050008.962757,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
   }
 ]
